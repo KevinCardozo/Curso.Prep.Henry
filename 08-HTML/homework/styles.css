@@ -1,0 +1,34 @@
+h1 {
+    color: darkred
+}
+img {
+    max-width: 400px;
+    margin: 0 auto;
+    width: 50%;
+}
+div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#thirdDiv {
+    height: 600px;
+    max-width: 500px;
+    background-color: goldenrod;
+    padding: 50px;
+    border: 5px solid black;
+    margin: 0 auto;
+   
+    
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    
+}
+body {
+    background-image: url(https://st.depositphotos.com/3470617/4869/v/950/depositphotos_48690601-stock-illustration-fast-food-pattern.jpg);
+}
+
+  
